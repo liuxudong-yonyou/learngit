@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T10:15:44.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GgfskSr4wVh3Dh1rPlH6" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T10:15:58.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5cyNOyem358kott04IgZ" version="12.3.8" type="github" pages="1">
   <diagram id="VqKAKFx7uqcNRF2K8Cb3" name="Page-1">
     <mxGraphModel dx="1151" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="76WRqrTsEyU47UKnnG5--34" value="feign client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="76WRqrTsEyU47UKnnG5--38" vertex="1">
           <mxGeometry x="49" y="101" width="70" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="76WRqrTsEyU47UKnnG5--39" value="服务熔断&lt;br&gt;Sentiel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="76WRqrTsEyU47UKnnG5--39" value="服务熔断&lt;br&gt;Sentinel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="536" y="-487" width="106" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="76WRqrTsEyU47UKnnG5--40" value="负载均衡&lt;br&gt;Ribbon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
